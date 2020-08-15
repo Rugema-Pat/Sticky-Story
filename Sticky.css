@@ -1,0 +1,16 @@
+.table-mapping{
+    text-align: center;
+    background-color: rgb(240, 235, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+    overflow: hidden;
+    padding-right: 30px;
+    height: 400px;
+}
+.first-row{
+    background-image:linear-gradient(rgb(76, 180, 76), rgba(76, 76, 184, 0.973));
+}
+.text-alignment{
+    text-align: left;
+    padding: 20px;
+}
